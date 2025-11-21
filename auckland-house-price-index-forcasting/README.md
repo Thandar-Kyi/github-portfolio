@@ -244,3 +244,13 @@ For example:
 * Explore dynamic regression \& state-space models
 * Include policy event dummies (AUP, LVR changes, COVID alerts)
 * Build a simple interactive dashboard (Streamlit or Tableau)
+
+
+
+## **📘 Academic Integrity Notice**
+
+
+
+This project is original work developed by Thandar Kyi as part of coursework and research at Auckland University of Technology (AUT).
+It is available publicly for professional portfolio purposes only.
+Reuse, copying, or redistribution without attribution is not permitted.
