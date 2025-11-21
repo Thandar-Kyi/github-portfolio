@@ -211,3 +211,13 @@ Models that incorporate hour-level seasonal structure (dummy regression or Holt-
 * Compare to machine learning models (Random Forest, XGBoost)
 * Rolling-origin cross-validation instead of single-holdout
 * Automatic detection of anomalies or holiday effects
+
+
+
+## **📘 Academic Integrity Notice**
+
+
+
+This project is original work developed by Thandar Kyi as part of coursework and research at Auckland University of Technology (AUT).
+It is available publicly for professional portfolio purposes only.
+Reuse, copying, or redistribution without attribution is not permitted.
