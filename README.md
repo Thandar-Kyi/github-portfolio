@@ -136,5 +136,4 @@ LinkedIn: www.linkedin.com/in/thandar-kyi-569550160
 
 
 
-Portfolio Website: (add your Canva site link once published)
-
+Portfolio Website: https://thandarkyi.my.canva.site/
