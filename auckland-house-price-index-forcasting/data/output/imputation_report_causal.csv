@@ -1,0 +1,12 @@
+series,n_rows,n_missing_flag,has_imp_col
+hpi_index,92,,True
+mort_rate_1y,92,1.0,True
+mort_rate_float,92,1.0,True
+ocr,92,0.0,True
+dwellings_consent_count,92,3.0,True
+new_listings_akl,92,1.0,True
+total_stock_akl,92,1.0,True
+sales_count_akl,92,1.0,True
+days_to_sell_akl,92,1.0,True
+filled_jobs_nz,92,18.0,True
+net_migration_nz,92,2.0,True

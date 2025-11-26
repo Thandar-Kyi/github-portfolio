@@ -1,0 +1,5 @@
+h,winner_model,winner_seasonal,winner_RMSE_log
+1,arima,False,0.015591235345744093
+3,arima,False,0.035771397023384006
+6,arima,False,0.06480187167725894
+12,arimax,False,0.097381750467505
