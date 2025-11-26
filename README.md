@@ -137,3 +137,7 @@ LinkedIn: www.linkedin.com/in/thandar-kyi-569550160
 
 
 Portfolio Website: (add your Canva site link once published)
+
+
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
