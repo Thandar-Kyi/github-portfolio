@@ -16,51 +16,104 @@ My work reflects a strong analytical background built through postgraduate studi
 
 
 
-#### 🔹 1. Electricity Demand Forecasting — Auckland North Island
+#### 🔹 1. Electricity Demand Forecasting — Auckland
 
 
 
-Tools: SAS (GLM, ESM, PLM), Time-Series Modelling
-
-A comprehensive forecasting analysis of hourly electricity demand to understand load patterns, seasonality, and short-term operational forecasting.
-
-Includes: Regression with hourly effects, Holt-Winters models, diagnostics, and 7-day forecasts.
+**Tools**: SAS (GLM, ESM, PLM), Time-Series Modelling
 
 
 
-🔗 Project Folder: electricity-forecasting/
+A comprehensive forecasting study modelling hourly electricity consumption in Auckland’s North Island.
 
-🔗 Full Report: electricity-forecasting/report/
-
-🔗 Code: electricity-forecasting/scripts/
+The project analyses load patterns, seasonal cycles, and temperature-related effects to produce reliable short-term forecasts.
 
 
 
-#### 🔹 2. \[Add Next Project Here]
+**Includes**:
 
 
 
-(Example)
-
-Instacart Market Basket Analysis — Big Data Analytics
-
-Discovering co-purchase patterns across millions of transactions using association rules, support/lift analysis, and visual insights.
-
-Will be uploaded soon.
+* Regression with hour-of-day seasonal effects
+* Holt-Winters (additive) exponential smoothing
+* Full residual diagnostics
 
 
 
-#### 🔹 3. \[Add Next Project Here]
+🔗 **Project Folder**: electricity-forecasting/
+
+🔗 **Full Report**: electricity-forecasting/report/
+
+🔗 **Code**: electricity-forecasting/scripts/
 
 
 
-(Example)
+#### 🔹 2. Auckland House Price Index Forecasting (STEM Research Project)
 
-Auckland Housing Price Index Forecasting — STEM Research
 
-Time-series modelling, ARIMA/ARIMAX with economic drivers, regime analysis, and forecasting evaluation.
 
-Coming soon.
+**Tools**: Python (pandas, NumPy, scikit-learn, statsmodels), Time-Series \& ML Modelling
+
+
+
+A research-driven forecasting project analysing the Auckland House Price Index (HPI) using ARIMA, ARIMAX, and macroeconomic drivers such as mortgage rates, migration, and building consents.
+
+The study evaluates model accuracy across multiple forecast horizons and explores policy / regime effects (AUP \& pandemic periods).
+
+
+
+**Includes**:
+
+
+
+* Data preprocessing, imputation, and panel construction
+* Cross-validation (1, 3, 6, 12-month rolling forecasts)
+* ARIMA \& ARIMAX modelling with external economic drivers
+* Forecast accuracy comparison using RMSE, MAPE, DM tests
+* Test-period evaluation and horizon-wise winner models
+
+
+
+🔗 **Project Folder**: auckland-house-price-index-forcasting/
+
+🔗 **Full Report**: auckland-house-price-index-forcasting/report/
+
+🔗 **Notebook**: auckland-house-price-index-forcasting/scripts/
+
+
+
+#### 🔹 3. Flood Warning Prediction — Auckland (Machine Learning Project)
+
+
+
+**Tools**: Python (TensorFlow/Keras, scikit-learn), ML Modelling \& Deep Learning
+
+
+
+A binary classification and regression project predicting flood risk and river water levels for the Manukau Harbour region.
+
+The project compares traditional machine learning methods with deep learning architectures to improve early flood warning capability.
+
+
+
+**Includes**:
+
+
+
+* Data cleaning \& exploratory analysis
+* Feature engineering and correlation study
+* Baseline models: Logistic Regression, Random Forest
+* Deep Learning models: Multilayer Perceptron (MLP), LSTM
+* Model evaluation using accuracy, AUC, loss curves
+* River-level forecasting and flood classification
+
+
+
+🔗 **Project Folder**: flood-warning-prediction/
+
+🔗 **Full Report**: flood-warning-prediction/report/
+
+🔗 **Notebook**: flood-warning-prediction/scripts/
 
 
 
@@ -73,7 +126,7 @@ Coming soon.
 
 
 * SAS (time-series, regression, forecasting)
-* Python (pandas, NumPy, scikit-learn, matplotlib)
+* Python (pandas, NumPy, scikit-learn, TensorFlow, matplotlib)
 * R (tidyverse, ggplot2, JAGS)
 * SQL (data extraction \& cleansing)
 * Git \& GitHub
@@ -88,7 +141,7 @@ Coming soon.
 * Time-series forecasting (ARIMA, ETS, Holt-Winters, ARIMAX)
 * Regression analysis (GLM, categorical modelling)
 * Machine learning fundamentals
-* Big data analytics (association rules, market basket)
+* Big data analytics (association rules, market basket analysis)
 * Bayesian modelling (JAGS, MCMC)
 * Resampling methods (bootstrap, permutation tests)
 
@@ -104,11 +157,11 @@ Each project includes:
 
 
 
-* A clear README.md
-* Code scripts (SAS / R / Python)
+* A structured README.md
+* Code scripts (SAS / Python)
 * Figures \& visualisations
-* Project report
-* Reproducible structure
+* Full project report
+* Organised directory structure
 
 
 
@@ -136,5 +189,11 @@ LinkedIn: www.linkedin.com/in/thandar-kyi-569550160
 
 
 
-Portfolio Website: (add your Canva site link once published)
+Portfolio Website: https://thandarkyi.my.canva.site/
+
+
+
+\[!\[License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+
 
